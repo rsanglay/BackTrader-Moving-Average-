@@ -1,6 +1,6 @@
 # BackTrader-Moving-Average-
 
-## This Python script uses the Backtrader library to implement a trading strategy based on the Exponential Moving Average (EMA). The financial data is obtained from Alpha Vantage API.
+ This Python script uses the Backtrader library to implement a trading strategy based on the Exponential Moving Average (EMA). The financial data is obtained from Alpha Vantage API.
 
 Key Components:
 
